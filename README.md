@@ -59,6 +59,7 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    Copy any number of images under `ChestXray-NIHCC` to `test_images` and resize them to 224x224 pixels.  
 
 2. Run `004_cam_simple.py` and it will output a Class Activation Map(CAM). The CAM lets us see which regions in the image were relevant to this class.  
+
    ![这里随便写文字](https://github.com/fatLime/Predict-Lung-Disease/blob/master/image.png)
 
 # Referenced Paper  
