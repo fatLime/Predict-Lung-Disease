@@ -60,6 +60,11 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
 
 2. Run `004_cam_simple.py` and it will output a Class Activation Map(CAM). The CAM lets us see which regions in the image were relevant to this class.  
 
-# Referenced Paper
-
+# Referenced Paper  
+- Baseline result: https://arxiv.org/abs/1705.02315
+- Image Localization: http://arxiv.org/abs/1512.04150   
+- The original chexnet paper mentioned in [StanfordML website](https://stanfordmlgroup.github.io/projects/chexnet/) as well as their [paper](https://arxiv.org/abs/1711.05225).
+- http://cs231n.stanford.edu/reports/2017/pdfs/527.pdf for pre-processing the data
+- https://arxiv.org/abs/1711.08760 for some other thoughts on the model architecture and the relationship between different diseases
+ 
 
