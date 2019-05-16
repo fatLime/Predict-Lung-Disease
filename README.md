@@ -70,4 +70,5 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
 - http://cs231n.stanford.edu/reports/2017/pdfs/527.pdf for pre-processing the data
 - https://arxiv.org/abs/1711.08760 for some other thoughts on the model architecture and the relationship between different diseases
  
-
+# Notes
+  Please contact yanhaotian@bupt.edu.cn if you have any problem.
