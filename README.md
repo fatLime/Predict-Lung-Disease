@@ -7,7 +7,8 @@ We obtain this repository by refactoring the [code](https://github.com/Azure/Azu
    ```
    We'll call the directory that you cloned PredictLungDisease `ROOT`  
   
-2. All essential dependencies should be installed  
+2. All essential dependencies should be installed：pickle, random, re, tqdm, cv2, numpy, pandas, sklearn, keras, tensorflow, keras_contrib, collections.counter.
+   
 # Data set up
 1. Download the NIH Chest X-ray Dataset from here:  
    https://nihcc.app.box.com/v/ChestXray-NIHCC.  
